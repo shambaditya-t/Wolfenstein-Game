@@ -1,2 +1,2 @@
-# RTOS_Wolfenstein_Game
-Uses two buttons as well as a capacitive touch sensor to drive a Wolfenstein game, displayed on the Gecko LCD display in real time
+# Wolfenstein_Game
+2 buttons, the capacitive touch and the LCD screen play the game on the Silicon Lab EFM PG12 boards
